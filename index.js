@@ -1,6 +1,6 @@
 /**..........................................................................................................*/
 /**..........................................................................................................*/
-/**Module-18:
+/**Module-18
 Question-1(a):You are given an array:
 var fruits = ['Apple','Banana','Orange'];
 (a).Find the index of 'Banana' and replace 'Banana' with 'Mango'.
@@ -56,7 +56,7 @@ num2 = 79;
 num3 = 45;
 if (num1 >= num2 && num1 >= num3) {
   console.log(13 + "is largest number");
-} else if (num2 >= num1 && num2 >= num3) {
+} else if (num2 >= num3) {
   console.log(79 + " is largest number");
 } else {
   console.log(45 + " is largest number");
